@@ -1,0 +1,10 @@
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\KickCashDrawer.exe.config
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\obj\Debug\KickCashDrawer.csprojResolveAssemblyReference.cache
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\KickCashDrawer.exe
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\KickCashDrawer.pdb
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\Microsoft.PointOfService.dll
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\Microsoft.PointOfService.ControlBase.dll
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\Microsoft.PointOfService.xml
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\bin\Debug\Microsoft.PointOfService.ControlBase.xml
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\obj\Debug\KickCashDrawer.exe
+E:\vs2015_comunity\DrawCash\KickCashDrawer\KickCashDrawer\obj\Debug\KickCashDrawer.pdb
